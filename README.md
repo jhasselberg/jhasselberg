@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
-<h3 align="center">a dude in love with data, automations and charts.</h3>
+<h3 align="center">a dude in love with automations, data, maps and charts.</h3>
+<h3 align="center">👨🏼‍💻 ⚙️ 🗺️ 📊</h3>
 
 - 🔭 I’m currently working on **microservices and data engineering.**
 
