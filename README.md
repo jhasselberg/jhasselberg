@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spark, Scala and k8s cluster maintenance.**
 
-- 👯 I’m looking to collaborate on **big data data analytics and services architecture.**
+- 👯 I’m looking to collaborate on **big data data analytics and service architecture.**
 
 - 📝 I regularly write articles on [blog.jnhssg.net](https://blog.jnhssg.net)
 
