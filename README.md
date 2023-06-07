@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **big data data analytics and services architecture.**
 
-- 📝 I regularly write articles on [blog.jnhssg.net](blog.jnhssg.net)
+- 📝 I regularly write articles on [blog.jnhssg.net](https://blog.jnhssg.net)
 
 - 💬 Ask me about **python, helm, k8s, docker, streamlit, sql, geospatial data engineering and maps**
 
