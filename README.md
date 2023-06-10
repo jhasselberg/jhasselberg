@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **microservices and data engineering.**
 
-- 🌱 I’m currently learning **Spark, Scala and k8s cluster maintenance.**
+- 🌱 I’m currently learning **Scala, some plotting technics and k8s cluster maintenance.**
 
 - 👯 I’m looking to collaborate on **big data data analytics and service architecture.**
 
