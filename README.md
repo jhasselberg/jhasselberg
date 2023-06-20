@@ -2,9 +2,9 @@
 <h3 align="center">a dude in love with automations, data, maps and charts.</h3>
 <h3 align="center">👨🏼‍💻 ⚙️ 🗺️ 📊</h3>
 
-- 🔭 I’m currently working on **microservices and data engineering.**
+- 👨🏼‍💻 I’m currently working on **microservices in python in a k8s environment and data engineering.**
 
-- 🌱 I’m currently learning **Scala, some plotting technics and k8s cluster maintenance.**
+- 🌱 I’m currently learning **some technics to build more reliable services.**
 
 - 👯 I’m looking to collaborate on **big data data analytics and service architecture.**
 
