@@ -1,15 +1,11 @@
 <h1 align="center">Hi 🖖🏻, I'm Jan</h1>
 <h3 align="center">👨🏼‍💻 ⚙️ 🗺️ 📊</h3>
 
-- 👨🏼‍💻 I’m currently working on **microservices in python in a k8s environment, some DevOps-Integrations and data visualizations.**
+- 👨🏼‍💻 I’m currently working on **microservices, some DevOps-Integrations and data visualizations.**
 
 - 🌱 I’m currently learning **some technics to build more reliable services.**
 
-- 👯 I’m looking to collaborate on **big data data analytics and service architecture.**
-
 - 📝 I regularly write articles on [blog.jnhssg.net](https://blog.jnhssg.net)
-
-- 💬 Ask me about **python, helm, k8s, docker, streamlit, sql, geospatial data engineering and maps**
 
 - 📫 How to reach me **jan@jnhssg.net**
 
