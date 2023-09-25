@@ -3,13 +3,11 @@
 
 - 👨🏼‍💻 I’m currently working on **microservices, some DevOps-Integrations and data visualizations.**
 
-- 🌱 I’m currently learning **some technics to build more reliable services.**
-
-- 📝 I regularly write articles on [blog.jnhssg.net](https://blog.jnhssg.net)
+- 📝 I write sometimes articles on [blog.jnhssg.net](https://blog.jnhssg.net)
 
 - 📫 How to reach me **jan@jnhssg.net**
 
-- ⚡ Fun fact **i'm stupid enough to buy everything from apple**
+- 🫠 Fun fact **i'm stupid enough to buy everything from apple**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
