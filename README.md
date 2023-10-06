@@ -1,13 +1,13 @@
 <h1 align="center">Hi 🖖🏻, I'm Jan</h1>
 <h3 align="center">👨🏼‍💻 ⚙️ 🗺️ 📊</h3>
 
-- 👨🏼‍💻 I’m currently working on **microservices, some DevOps-Integrations and data visualizations.**
+- 👨🏼‍💻 I’m currently working on many topics related to Backend-Infrastructure. Sometimes little Frontend-Tweaks..
 
 - 📝 I write sometimes articles on [blog.jnhssg.net](https://blog.jnhssg.net)
 
 - 📫 How to reach me **jan@jnhssg.net**
 
-- 🫠 Fun fact **i'm stupid enough to buy everything from apple**.
+- 🫠 Fun fact: I'm stupid enough to buy everything from apple
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
