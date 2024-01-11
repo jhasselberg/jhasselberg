@@ -3,7 +3,7 @@
 
 - 👨🏼‍💻 I’m currently working on many topics related to Backend-Infrastructure. Sometimes little Frontend-Tweaks..
 
-- 📝 I write sometimes articles on [blog.jnhssg.net](https://blog.jnhssg.net)
+- 📝 I write sometimes articles on [jnhssg.de](https://jnhssg.de)
 
 - 📫 How to reach me **jan@jnhssg.net**
 
