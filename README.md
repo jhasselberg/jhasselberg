@@ -1,11 +1,9 @@
 <h1 align="center">Hi 🖖🏻, I'm Jan</h1>
 <h3 align="center">👨🏼‍💻 ⚙️ 🗺️ 📊</h3>
 
-- 👨🏼‍💻 I’m currently working on many topics related to Backend-Infrastructure. Sometimes little Frontend-Tweaks..
+- 👨🏼‍💻 I’m currently working @Kpler and @FleetMon.
 
 - 📝 I write sometimes articles on [jnhssg.de](https://jnhssg.de)
-
-- 📫 How to reach me **jan@jnhssg.net**
 
 - 🫠 Fun fact: I'm stupid enough to buy everything from apple
 
