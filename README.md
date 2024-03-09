@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🖖🏻, I'm Jan</h1>
 <h3 align="center">👨🏼‍💻 ⚙️</h3>
 
-- 👨🏼‍💻 I’m currently working [kpler](https://github.com/kpler) and [FleetMon](https://fleetmon.com).
+- 👨🏼‍💻 I’m currently working [@kpler](https://github.com/kpler) and [@FleetMon](https://fleetmon.com).
 
 - 📝 In the meantime I write sometimes articles and artifacts on [jnhssg.de](https://jnhssg.de)
 
