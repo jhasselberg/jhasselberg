@@ -1,11 +1,9 @@
 <h1 align="center">Hi 🖖🏻, I'm Jan</h1>
-<h3 align="center">👨🏼‍💻 ⚙️ 🗺️ 📊</h3>
+<h3 align="center">👨🏼‍💻 ⚙️</h3>
 
-- 👨🏼‍💻 I’m currently working @Kpler and @FleetMon.
+- 👨🏼‍💻 I’m currently working [kpler](https://github.com/kpler) and [FleetMon](https://fleetmon.com).
 
-- 📝 I write sometimes articles on [jnhssg.de](https://jnhssg.de)
-
-- 🫠 Fun fact: I'm stupid enough to buy everything from apple
+- 📝 In the meantime I write sometimes articles and artifacts on [jnhssg.de](https://jnhssg.de)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
