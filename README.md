@@ -2,8 +2,8 @@
 <h3 align="center">👨🏼‍💻 ⚙️</h3>
 
 - 👨🏼‍💻 I’m currently working [@kpler](https://github.com/kpler) and [@FleetMon](https://fleetmon.com).
-
 - 📝 In the meantime I write sometimes articles and artifacts on [jnhssg.de](https://jnhssg.de)
+- 🏡 In my spare time, I've been working on some inspiring projects, all of which are packaged in this org space https://github.com/owl-inventions, to utilize organizational features for the cloud enviroment.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
